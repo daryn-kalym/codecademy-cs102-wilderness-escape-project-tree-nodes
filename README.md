@@ -18,19 +18,14 @@ Our Story Begins
 
 Define a TreeNode class.
 
-- [x] 4. Our TreeNode class will keep track of two things:
-
-a portion of the story.
-the choices a user can make to progress in the story.
+- [x] 4. Our TreeNode class will keep track of two things:\
+- a portion of the story.
+- the choices a user can make to progress in the story.
 Within TreeNode, define an __init__() method that takes self, story_piece as arguments.
 
+- [x] 5. Inside of __init__(), assign story_piece to self.story_piece. Also assign self.choices to be an empty Python list.
 
-Stuck? Get a hint
-5.
-Inside of __init__(), assign story_piece to self.story_piece. Also assign self.choices to be an empty Python list.
-
-6.
-Our market research indicates users are clamoring for a wilderness tale. Let’s get the story started…
+- [x] 6. Our market research indicates users are clamoring for a wilderness tale. Let’s get the story started…
 
 Declare a variable story_root and assign it to an instance of TreeNode with the following text:
 
@@ -41,10 +36,7 @@ Do you:
 1 ) Roar back!
 2 ) Run to the left...
 """
-
-Stuck? Get a hint
-7.
-Test out that we’re on the right path by printing story_root.story_piece near the bottom of script.py.
+- [x] 7. Test out that we’re on the right path by printing story_root.story_piece near the bottom of script.py.
 
 In the terminal, run python3 script.py.
 
