@@ -8,26 +8,17 @@ If you get stuck during this project or would like to see an experienced develop
 
 Tasks\
 Mark the tasks as complete by checking them off\
-Our Story Begins\
+Our Story Begins
 
 - [x] 1.This project will be heavily interactive. To get in the spirit, write a print() function inside of script.py to display “Once upon a time…” in the console.
 
-2.
-Great! You’ll need to save your changes as you go.
+- [x] 2. Great! You’ll need to save your changes as you go. Click “Save”, then, inside of the terminal, enter python3 script.py. This will run the file. You should see the contents of your print statement in the console.
 
-Click “Save”, then, inside of the terminal, enter python3 script.py. This will run the file.
-
-You should see the contents of your print statement in the console.
-
-
-Stuck? Get a hint
-3.
-Wonderful! Our application will use the tree data structure to keep track of the different paths a user can choose in their story.
+- [x] 3. Wonderful! Our application will use the tree data structure to keep track of the different paths a user can choose in their story. 
 
 Define a TreeNode class.
 
-4.
-Our TreeNode class will keep track of two things:
+- [x] 4. Our TreeNode class will keep track of two things:
 
 a portion of the story.
 the choices a user can make to progress in the story.
