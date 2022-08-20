@@ -9,12 +9,9 @@ If you get stuck during this project or would like to see an experienced develop
 Tasks
 Mark the tasks as complete by checking them off
 Our Story Begins
-[x] 1.This project will be heavily interactive.
 
-To get in the spirit, write a print() function inside of script.py to display “Once upon a time…” in the console.
+- [x] 1.This project will be heavily interactive. To get in the spirit, write a print() function inside of script.py to display “Once upon a time…” in the console.
 
-
-Stuck? Get a hint
 2.
 Great! You’ll need to save your changes as you go.
 
